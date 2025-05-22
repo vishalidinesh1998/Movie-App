@@ -37,4 +37,5 @@ export const WatchListProvider = ({ children }) => {
       {children}
     </WatchListContext.Provider>
   );
+  
 };
